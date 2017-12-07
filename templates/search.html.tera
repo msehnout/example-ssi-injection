@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form method="post" action="/submit">
+  Query :<br>
+  <input type="text" name="query"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+</body>
+</html>
